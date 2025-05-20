@@ -46,10 +46,3 @@ venv.bak/
 .idea/
 .vscode/
 *.swp
-
-# Playwright
-playwright-report/
-trace.zip
-
-# Output PDFs
-*.pdf
